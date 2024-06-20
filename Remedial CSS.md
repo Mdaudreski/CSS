@@ -52,7 +52,7 @@
 
               <div class="berita">
 
-                    <img src="./foto 7.jpg" class="gambar">
+                    <img src="../foto 7.jpg" class="gambar">
 
                     <h2 class="tk">Pantai Kuta</h2> <br>
 
@@ -855,12 +855,8 @@ margin-top: 150px;
 
 Secara keseluruhan, CSS ini berperan penting dalam meningkatkan pengalaman pengguna dan menampilkan konten halaman "Pesona Indonesia" dengan cara yang menarik dan informatif.
 ## Hasil
-![gambar](AsetCSS/AssetPesonaIndonesia.png)
+![gambar](assetremedialcss/AssetPesonaIndonesia.png)
 
-![gambar](AsetCSS/AssetPesonaindonesiaBerita.png)
+![gambar](assetremedialcss/AssetPesonaindonesiaBerita.png)
 
-![gambar](AsetCSS/AssetPesonaIndonesiaAbout.png)
-## Link Video Tutorial Pesona Indonesia
-
-
-Belum Selesai :)
+![gambar](assetremedialcss/AssetPesonaIndonesiaAbout.png)
